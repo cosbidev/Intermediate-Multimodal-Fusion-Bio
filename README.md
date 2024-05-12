@@ -20,7 +20,7 @@ of the learning process, potentially leading to more accurate and robust models.
 <p align="center">
   <img src="https://github.com/FrancescoDiFeola/survey_temp/blob/main/joint.png" alt="Image Description">
 </p>
-https://umeauniversity-my.sharepoint.com/personal/frdi0021_ad_umu_se/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrdi0021%5Fad%5Fumu%5Fse%2FDocuments%2FIntermediate%5FFusion%5FNotation%2Epdf&parent=%2Fpersonal%2Ffrdi0021%5Fad%5Fumu%5Fse%2FDocuments
+
 | Title | DOI | Code| Year | Our analysis |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> A Bi-level representation learning model for medical visual question answering <br> | [paper](https://doi.org/10.1016/j.jbi.2022.104183) | - | 2022 | [Link](https://umeauniversity-my.sharepoint.com/personal/frdi0021_ad_umu_se/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrdi0021%5Fad%5Fumu%5Fse%2FDocuments%2FIntermediate%5FFusion%5FNotation%2Epdf&parent=%2Fpersonal%2Ffrdi0021%5Fad%5Fumu%5Fse%2FDocuments#page=7) |
