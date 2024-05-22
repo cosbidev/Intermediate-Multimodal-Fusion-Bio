@@ -17,7 +17,7 @@ Multimodal deep learning (MDL) has emerged as an innovative approach in biomedic
 of the learning process, potentially leading to more accurate and robust models. This systematic review provides an overview of intermediate fusion methods in biomedical applications, covering fundamental concepts, structured analysis, and notation that not only categorizes these methods but also provides a framework that can be extended beyond the biomedical field.
 
 <p align="center">
-  <img src="joint.png" alt="Image Description">
+  <img src="https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio/blob/main/files/joint.pdf" alt="Image Description">
 </p>
 
 Have a look at a concise overview of our analysis: [Link](https://docs.google.com/spreadsheets/d/1m6d45lnM3WpCp-iz-uhSUAVyZERBOOQN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
