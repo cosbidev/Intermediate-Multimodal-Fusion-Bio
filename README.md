@@ -16,7 +16,7 @@ Our review paper on arXiv: [A Systematic Review of Intermediate Fusion Methods o
 Multimodal deep learning (MDL) has emerged as an innovative approach in biomedical applications, leveraging the power of deep learning algorithms to interpret and integrate diverse data types. Intermediate fusion techniques stand out for their ability to effectively integrate information at essential stages
 of the learning process, potentially leading to more accurate and robust models. This systematic review provides an overview of intermediate fusion methods in biomedical applications, covering fundamental concepts, structured analysis, and notation that not only categorizes these methods but also provides a framework that can be extended beyond the biomedical field.
 
-![Joint Fusion Image](files/joint_fusion.tiff)
+![Joint Fusion Image](./files/joint_fusion.tiff)
 
 Have a look at a concise overview of our analysis: [Link](https://docs.google.com/spreadsheets/d/1m6d45lnM3WpCp-iz-uhSUAVyZERBOOQN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
 
