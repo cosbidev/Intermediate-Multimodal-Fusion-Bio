@@ -20,7 +20,7 @@ of the learning process, potentially leading to more accurate and robust models.
 
 Have a look at a concise overview of our analysis: [Link](https://docs.google.com/spreadsheets/d/1m6d45lnM3WpCp-iz-uhSUAVyZERBOOQN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
 
-| Title | DOI | Code| Year | Our analysis |
+| Title | DOI | Code| Year | Fusion analysis |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> A Bi-level representation learning model for medical visual question answering <br> | [paper](https://doi.org/10.1016/j.jbi.2022.104183) | - | 2022 | [Link](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio/blob/main/files/1.pdf) |
 | <br> A dynamic multi-modal fusion network for ovarian tumor differentiation <br> | [paper](https://ieeexplore.ieee.org/document/9995556) | - | 2022 | [Link](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio/blob/main/files/2.pdf) |
