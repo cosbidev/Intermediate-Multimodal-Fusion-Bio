@@ -5,10 +5,10 @@ If you find our work useful in your research, please consider citing:
 Our review paper on arXiv: [paper](https://arxiv.org/pdf/2408.02686)🔥
 
 ```bibtex
-@article{...,
-  title={{A Systematic Review of Intermediate Fusion Methods of Multimodal Deep Learning in Biomedical Applications}},
-  author={...},
-  journal={...},
+@article{guarrasi2024systematic,
+  title={{A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications}},
+  author={Guarrasi, Valerio and Aksu, Fatih and Caruso, Camillo Maria and Di Feola, Francesco and Rofena, Aurora and Ruffini, Filippo and Soda, Paolo},
+  journal={arXiv preprint arXiv:2408.02686},
   year={2024}
 }
 ```
