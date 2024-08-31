@@ -2,8 +2,8 @@
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-Our review paper on arXiv: [A Systematic Review of Intermediate Fusion Methods of Multimodal Deep Learning in Biomedical Applications](...)🔥
-
+Our review paper on arXiv: [paper](https://doi.org/10.1016/j.jbi.2022.104183)🔥
+https://arxiv.org/pdf/2408.02686
 ```bibtex
 @article{...,
   title={{A Systematic Review of Intermediate Fusion Methods of Multimodal Deep Learning in Biomedical Applications}},
