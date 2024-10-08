@@ -20,6 +20,8 @@ of the learning process, potentially leading to more accurate and robust models.
 
 Have a look at a concise overview of our analysis (supplementary material A): [Link](https://docs.google.com/spreadsheets/d/1zAVOWWv2fBUS_VwCXyOjtUxk0R2bmQlN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
 
+In the table below, we make available the detailed analysis of the fusion strategy used by each paper included in the review (supplementary material B).
+
 | Title | DOI | Code| Year | Fusion analysis |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> A Bi-level representation learning model for medical visual question answering <br> | [paper](https://doi.org/10.1016/j.jbi.2022.104183) | - | 2022 | [Link](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio/blob/main/files/1.pdf) |
