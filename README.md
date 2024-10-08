@@ -18,7 +18,7 @@ of the learning process, potentially leading to more accurate and robust models.
 
 ![Joint Fusion Image](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio/blob/main/images/Intermediate.png)
 
-Have a look at a concise overview of our analysis: [Link](https://docs.google.com/spreadsheets/d/1zAVOWWv2fBUS_VwCXyOjtUxk0R2bmQlN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
+Have a look at a concise overview of our analysis (supplementary material A): [Link](https://docs.google.com/spreadsheets/d/1zAVOWWv2fBUS_VwCXyOjtUxk0R2bmQlN/edit?usp=sharing&ouid=115676391402285918974&rtpof=true&sd=true)
 
 | Title | DOI | Code| Year | Fusion analysis |
 |:--------|:--------:|:--------:|:--------:|:--------:|
