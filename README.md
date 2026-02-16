@@ -25,7 +25,7 @@ If you find our work useful, please cite:
   year={2025},
   publisher={Elsevier}
 }
-'''
+```
 
 ## Overview
 Multimodal deep learning (MDL) has emerged as an innovative approach in biomedical applications, leveraging the power of deep learning algorithms to interpret and integrate diverse data types. Intermediate fusion techniques stand out for their ability to effectively integrate information at essential stages
