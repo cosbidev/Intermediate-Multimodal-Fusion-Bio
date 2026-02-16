@@ -1,17 +1,30 @@
-# A Systematic Review of Intermediate Fusion Methods of Multimodal Deep Learning in Biomedical Applications
-## Citation
-If you find our work useful in your research, please consider citing:
+# A Systematic Review of Intermediate Fusion Methods in Multimodal Deep Learning for Biomedical Applications
 
-Our review paper on arXiv: [paper](https://arxiv.org/pdf/2408.02686)🔥
+## 📄 Paper
+
+**Guarrasi, V.; Aksu, F.; Caruso, C. M.; Di Feola, F.; Rofena, A.; Ruffini, F.; Soda, P.**  
+*A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications.*  
+**Information Fusion**, 2024.  
+
+🔗 Paper link: https://doi.org/10.1016/j.imavis.2025.105509
+📘 arXiv version (if needed): https://arxiv.org/abs/2408.02686
+
+---
+
+## 🧾 Citation
+
+If you find our work useful, please cite:
 
 ```bibtex
-@article{guarrasi2024systematic,
-  title={{A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications}},
+@article{guarrasi2025systematic,
+  title={A systematic review of intermediate fusion in multimodal deep learning for biomedical applications},
   author={Guarrasi, Valerio and Aksu, Fatih and Caruso, Camillo Maria and Di Feola, Francesco and Rofena, Aurora and Ruffini, Filippo and Soda, Paolo},
-  journal={arXiv preprint arXiv:2408.02686},
-  year={2024}
+  journal={Image and Vision Computing},
+  volume={158},
+  pages={105509},
+  year={2025},
+  publisher={Elsevier}
 }
-```
 ## Overview
 Multimodal deep learning (MDL) has emerged as an innovative approach in biomedical applications, leveraging the power of deep learning algorithms to interpret and integrate diverse data types. Intermediate fusion techniques stand out for their ability to effectively integrate information at essential stages
 of the learning process, potentially leading to more accurate and robust models. This systematic review provides an overview of intermediate fusion methods in biomedical applications, covering fundamental concepts, structured analysis, and notation that not only categorizes these methods but also provides a framework that can be extended beyond the biomedical field.
