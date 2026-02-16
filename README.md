@@ -2,7 +2,7 @@
 
 ## 📄 Paper
 
-**Guarrasi, V.; Aksu, F.; Caruso, C. M.; Di Feola, F.; Rofena, A.; Ruffini, F.; Soda, P.**  
+**Guarrasi, Valerio; Aksu, Fatih; Caruso, Camillo Maria; Di Feola, Francesco; Rofena, Aurora; Ruffini, Filippo; Soda, Paolo**  
 *A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications.*  
 **Information Fusion**, 2024.  
 
@@ -26,6 +26,7 @@ If you find our work useful, please cite:
   publisher={Elsevier}
 }
 '''
+
 ## Overview
 Multimodal deep learning (MDL) has emerged as an innovative approach in biomedical applications, leveraging the power of deep learning algorithms to interpret and integrate diverse data types. Intermediate fusion techniques stand out for their ability to effectively integrate information at essential stages
 of the learning process, potentially leading to more accurate and robust models. This systematic review provides an overview of intermediate fusion methods in biomedical applications, covering fundamental concepts, structured analysis, and notation that not only categorizes these methods but also provides a framework that can be extended beyond the biomedical field.
