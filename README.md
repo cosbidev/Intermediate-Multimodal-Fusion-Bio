@@ -4,7 +4,7 @@
 
 **Guarrasi, Valerio; Aksu, Fatih; Caruso, Camillo Maria; Di Feola, Francesco; Rofena, Aurora; Ruffini, Filippo; Soda, Paolo**  
 *A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications.*  
-**Information Fusion**, 2024.  
+**Image and Vision Computing**, 2025.  
 
 🔗 Paper link: https://doi.org/10.1016/j.imavis.2025.105509
 📘 arXiv version (if needed): https://arxiv.org/abs/2408.02686
